@@ -1,3 +1,8 @@
+# AtCoder Algorithm Rating
+
+![AtCoder Algo Rating](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=status)
+![AtCoder Algo Graph](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=graph)
+
 # AtCoder workspace
 
 VSCode + Python + atcoder-cli(acc) + online-judge-tools(oj) 環境
