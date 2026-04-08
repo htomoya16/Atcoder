@@ -7,6 +7,11 @@
 
 VSCode + Python + atcoder-cli(acc) + online-judge-tools(oj) 環境
 
+## 参考
+
+環境構築は以下の記事を参考にしました。  
+https://zenn.dev/fro25zen/articles/atcoder_setup_article
+
 # ディレクトリ構成
 ```
 Atcoder/
