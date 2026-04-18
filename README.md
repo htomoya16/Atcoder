@@ -1,7 +1,7 @@
 # AtCoder Algorithm Rating
 
-![AtCoder Algo Rating](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=status&v=20260419)
-![AtCoder Algo Graph](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=graph&v=20260419)
+[![hasiyuto's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/hasiyuto?show_icons=true&show_history=5&width=450&theme=darcula)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
 
 # AtCoder workspace
 
