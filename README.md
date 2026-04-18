@@ -1,6 +1,6 @@
 # AtCoder Algorithm Rating
 
-[![hasiyuto's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/hasiyuto?show_icons=true&show_history=5&width=450&theme=darcula)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+[![hasiyuto's atcoder stats](https://atcoder-readme-stats.vercel.app/stats/hasiyuto?show_icons=true&show_history=5&width=450)](https://github.com/iwbc-mzk/atcoder-readme-stats)
 
 
 # AtCoder workspace
