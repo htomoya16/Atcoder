@@ -1,7 +1,7 @@
 # AtCoder Algorithm Rating
 
-![AtCoder Algo Rating](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=status)
-![AtCoder Algo Graph](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=graph)
+![AtCoder Algo Rating](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=status&v=20260419)
+![AtCoder Algo Graph](https://atcoder-disp-graph.tra.earth/disp-rate/hasiyuto?contest-type=algo&graph-type=graph&v=20260419)
 
 # AtCoder workspace
 
